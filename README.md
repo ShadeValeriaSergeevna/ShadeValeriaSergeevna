@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Charles-%231828FF?style=plastic&logo=charles&logoColor=%23F3F5F5)
 ![Static Badge](https://img.shields.io/badge/Swagger-%23072A50?style=plastic&logo=swagger&logoColor=%2385EA2D)
 ![Static Badge](https://img.shields.io/badge/X-PATH-%23FF0000?style=plastic&labelColor=black)
-![Static Badge](https://img.shields.io/badge/JAVA-black?style=plastic&logo=jirasoftware&logoColor=%230052CC&)
+![Static Badge](https://img.shields.io/badge/JAVA-black?style=plastic&logoColor=%230052CC&)

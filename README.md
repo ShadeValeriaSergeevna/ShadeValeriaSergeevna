@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 [![Header](https://github.com/user-attachments/assets/1d4dbcc4-9ffb-4f6d-9943-2a1afda09c02)]
 
+## I'm a beginner QA Engineer
+
+  Специалист по контролю качества ПО, с опытом тестирования на тренировочных платформах. В настоящее время обучаюсь автоматизации тестирования UI на Java.
+В перспективе хочу закрепить навыки, освоить нагрузочное тестирование и стать Full Stack QA. Обучилась на программе "Тестирование ПО" в бауманском центре "Специалист". Активно
+посещаю [онлайн-курсы](https://stepik.org/users/493984512/profile), смотрю обучающие
+ролики на Youtube.
+## My CV
+[Вариант_1_CV.pdf]
+
 ### Languages and Tools
 
 ![Static Badge](https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue)

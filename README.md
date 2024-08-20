@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/user-attachments/assets/1d4dbcc4-9ffb-4f6d-9943-2a1afda09c02)]
+![Header](https://github.com/user-attachments/assets/1d4dbcc4-9ffb-4f6d-9943-2a1afda09c02)
 
 ## I'm a beginner QA Engineer
 
@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 В перспективе хочу закрепить навыки, освоить нагрузочное тестирование и стать Full Stack QA. Обучилась на программе "Тестирование ПО" в бауманском центре "Специалист". Активно
 посещаю онлайн-курсы, смотрю обучающие ролики на Youtube.
 ## My CV
-[Вариант_1_CV.pdf]
-
+[Вариант_1_CV.pdf](
 ### Languages and Tools
-
 ![Static Badge](https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue)
 ![Static Badge](https://img.shields.io/badge/postgre-SQL-DarkRed?style=plastic&logo=postgresql&logoColor=40E0D0&color=black)
 ![Static Badge](https://img.shields.io/badge/QASE-black?style=plastic&logo=qase&logoColor=%234F46DC&)

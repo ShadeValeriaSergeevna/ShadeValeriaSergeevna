@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 В перспективе хочу закрепить навыки, освоить нагрузочное тестирование и стать Full Stack QA. Обучилась на программе "Тестирование ПО" в бауманском центре "Специалист". Активно
 посещаю онлайн-курсы, смотрю обучающие ролики на Youtube.
 ## My CV
-[Вариант_1_CV.pdf]([
-](https://drive.google.com/file/d/1dKHvHNp1uOsQThUNfcOz65AXQxQbexLh/view?usp=drive_link)
+[Вариант_1_CV.pdf][
+(https://drive.google.com/file/d/1dKHvHNp1uOsQThUNfcOz65AXQxQbexLh/view?usp=drive_link)]
 
 ### Languages and Tools
 ![Static Badge](https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue)

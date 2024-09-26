@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ## My CV
 [Вариант_1_CV.pdf][
 (https://drive.google.com/file/d/1dKHvHNp1uOsQThUNfcOz65AXQxQbexLh/view?usp=drive_link)]
+## Documentation
+[(https://docs.google.com/spreadsheets/d/1Q0hh5vz7MD7M8SK0pJxLUTAq2Va3hxw-nNkPb_Meynw/edit?usp=sharing)]
 
 ### Languages and Tools
 ![Static Badge](https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue)

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 (https://drive.google.com/file/d/12Y5XBgyYvSMQGkJort5-RDHFut9G6oG1/view?usp=sharing)
 ]
 ## Documentation
-[(https://docs.google.com/spreadsheets/d/1Q0hh5vz7MD7M8SK0pJxLUTAq2Va3hxw-nNkPb_Meynw/edit?usp=sharing)]
+[(https://docs.google.com/spreadsheets/d/1-DxX442dmhfux8Hp2DNekop1q5FAinK4jNrOrZpgeTw/edit?usp=sharing)]
 
 ### Languages and Tools
 ![Static Badge](https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue)

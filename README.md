@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/user-attachments/assets/1d4dbcc4-9ffb-4f6d-9943-2a1afda09c02)
 
 ## I'm a QA Engineer
 ## My CV

@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a QA Engineer
+## My pet Project [(http://shade.qa.tilda.ws/)]
+Check my personal site and UI Authotest 
+
 ## My CV
-[Вариант_1_CV.pdf][
+[CV.pdf][
 (https://drive.google.com/file/d/12Y5XBgyYvSMQGkJort5-RDHFut9G6oG1/view?usp=sharing)
 ]
 ## Documentation

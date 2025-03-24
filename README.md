@@ -23,7 +23,7 @@ test
 
 ## My CV
 [CV.pdf][
-(https://drive.google.com/file/d/12Y5XBgyYvSMQGkJort5-RDHFut9G6oG1/view?usp=sharing)
+([https://drive.google.com/file/d/12Y5XBgyYvSMQGkJort5-RDHFut9G6oG1/view?usp=sharing](https://drive.google.com/uc?export=download&id=14PVMgY7yxL42HLDdxhAo-3OdzaPx3Ohl))
 ]
 ## Documentation
 [(https://docs.google.com/spreadsheets/d/1-DxX442dmhfux8Hp2DNekop1q5FAinK4jNrOrZpgeTw/edit?usp=sharing)]

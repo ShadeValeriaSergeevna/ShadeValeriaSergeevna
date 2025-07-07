@@ -62,9 +62,7 @@ Write `true/false` in "junit.jupiter.execution.parallel.enabled" `src/test/resou
 1) open main page -> open contacts page
 2) check the correctness of the text and the presence of links
 ## My CV
-[CV.pdf][
-(https://drive.google.com/uc?export=download&id=14PVMgY7yxL42HLDdxhAo-3OdzaPx3Ohl)
-]
+[CV.pdf][(https://docs.google.com/document/d/1NmDz850zw09OzfdfY4C0oCiWRICYWemyfbDXNTG5n44/edit?usp=sharing)]
 ## Documentation
 [(https://docs.google.com/spreadsheets/d/1-DxX442dmhfux8Hp2DNekop1q5FAinK4jNrOrZpgeTw/edit?usp=sharing)]
 
